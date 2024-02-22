@@ -13,18 +13,21 @@ resulting in a significantly improved user experience.
 - UI - streamlit 
 
 ## how to use ?
-1.install Conda 
+1. install Conda 
 
-2.Clone the repository:
+2. Clone the repository:
 
    ```sh
    git clone https://github.com/ItaySegev01/chat-with-website.git
 
-3.Run the project
+3. Run the project
 
     ```sh
     conda activate 'your-name'
+    ```
+    ```sh
     streamlit run src/app.py
+    ```
     
 ## License 
 MIT License
