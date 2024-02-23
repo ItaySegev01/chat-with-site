@@ -12,7 +12,7 @@ resulting in a significantly improved user experience.
 - Langchain
 - UI - streamlit 
 
-## how to use ?
+## How to use ?
 1. install Conda 
 
 2. Clone the repository:
